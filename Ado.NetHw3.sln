@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado.NetHw3", "Ado.NetHw3\Ado.NetHw3.csproj", "{AC07A591-5976-4F5B-B3A3-577E19910FF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC07A591-5976-4F5B-B3A3-577E19910FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC07A591-5976-4F5B-B3A3-577E19910FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC07A591-5976-4F5B-B3A3-577E19910FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC07A591-5976-4F5B-B3A3-577E19910FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEA71E74-C483-4FD9-A16D-323A74FFCEA7}
+	EndGlobalSection
+EndGlobal
